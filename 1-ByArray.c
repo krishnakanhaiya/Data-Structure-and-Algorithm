@@ -3,7 +3,7 @@
     Course: M.Tech. Data Science (Semester-1)
     Subject: Data Structures & Algorithms
     Timestamp: January 06, 2023 17.38.05 IST
-    Objective:
+    Objective: Assignment
 */
 
 #include<stdio.h>
